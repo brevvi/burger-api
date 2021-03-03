@@ -1,0 +1,40 @@
+{
+    "burgers": [
+        {
+            "id": 0,
+            "name": "Tribe Burger",
+            "restaurant": "Honest Burger",
+            "web": "wwww.honestburgers.co.uk",
+            "description": " A mouth-watering honest beef burger",
+            "ingredients": ["beef", "american cheese", "burguer saurce", "french mustard","bread"],
+            "addresses": [
+                {
+                    "address": "0",
+                    "number": "75",
+                    "line1": "Venn Street",
+                    "line2": "Clapham",
+                    "postcode": "SW4 0BD",
+                    "country": "United Kingdom"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Pulled Mooshie",
+            "restaurante": "Mooshies",
+            "web": "wwww.veganburger.org",
+            "description": "Spicy vegan burger with jacfruit",
+            "ingredients": ["jackfruit", "coleslaw", "gluten free bun"],
+            "addresses": [
+                {
+                    "address": "0",
+                    "number": "104",
+                    "line1": "Brick Lane",
+                    "line2": "Shoreditch",
+                    "postcode": "E1 6RL",
+                    "country": "United Kingdom"
+                }
+            ]
+        }
+    ]
+}
