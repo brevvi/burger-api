@@ -38,7 +38,7 @@
         },
         {
 	   "id": 1,
-            "name": "A Chapa",
+            "nome": "A Chapa",
             "restaurante": "A Chapa Hamburguers",
             "web": "http://www.achapa.com.br/",
             "descricao": "Cheese Salada",
