@@ -2,39 +2,57 @@
     "burgers": [
         {
             "id": 0,
-            "name": "Tribe Burger",
-            "restaurant": "Honest Burger",
-            "web": "wwww.honestburgers.co.uk",
-            "description": " A mouth-watering honest beef burger",
-            "ingredients": ["beef", "american cheese", "burguer saurce", "french mustard","bread"],
-            "addresses": [
+            "nome": "Hamburguinho",
+            "restaurante": "Hamburguinho - Pinheiros",
+            "web": "https://www.hamburguinho.com.br/",
+            "descricao": "Chesse Salada",
+            "ingredientes": ["tomate", "queijo patro", "alface", "maionese","hamburguers", "pao"],
+            "endereco": [
                 {
-                    "address": "0",
-                    "number": "75",
-                    "line1": "Venn Street",
-                    "line2": "Clapham",
-                    "postcode": "SW4 0BD",
-                    "country": "United Kingdom"
+                    "endereco": "0",
+                    "numero": "1072",
+                    "linha1": "R. dos Pinheiros",
+                    "linha2": "Pinheiros",
+                    "CEP": "05422-001",
+                    "pais": "Brasil"
                 }
             ]
         },
         {
             "id": 1,
-            "name": "Pulled Mooshie",
-            "restaurante": "Mooshies",
-            "web": "wwww.veganburger.org",
-            "description": "Spicy vegan burger with jacfruit",
-            "ingredients": ["jackfruit", "coleslaw", "gluten free bun"],
-            "addresses": [
+            "nome": "Hobby Burguer",
+            "restaurante": "Hobby",
+            "web": "https://www.instagram.com/hobbyburgueroficial",
+            "descricao": "Hamburger Creme de Milho",
+            "ingredientes": ["hamburger", "creme de milho", "pao brioche"],
+            "endereco": [
                 {
-                    "address": "0",
-                    "number": "104",
-                    "line1": "Brick Lane",
-                    "line2": "Shoreditch",
-                    "postcode": "E1 6RL",
-                    "country": "United Kingdom"
+                    "endereco": "0",
+                    "numero": "104",
+                    "linha1": "R. Cardoso de Almeida",
+                    "linha2": "Perdizes",
+                    "CEP": "05013-001",
+                    "pais": "Brasil"
                 }
             ]
         }
+        {
+	   "id": 1,
+            "name": "A Chapa",
+            "restaurante": "A Chapa Hamburguers",
+            "web": "http://www.achapa.com.br/",
+            "descricao": "Cheese Salada",
+            "ingredientes": ["tomate", "alface","maionese", "hamburguer", "pao brioche"],
+            "endereco": [
+                 {
+                    "endereco": "0",
+                    "numero": "2564",
+                    "linha1": "Rua Domingos de Morais",
+                    "linha2": "Vila Mariana",
+                    "CEP": "0436-100",
+                    "pais": "Brasil"
+                }
+            ]
+         }
     ]
 }
